@@ -1,5 +1,7 @@
 default
 xkb_symbols "rubr" {
+    // Russian keyboard layout mapped from ABNT2 following sound similarities between russian and brazilian portuguese
+
     name[Group1]="Russian (Qwerty's edit by Igor)";
     include "br(abnt2)"
 
