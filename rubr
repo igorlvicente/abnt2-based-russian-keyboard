@@ -38,56 +38,56 @@ xkb_symbols "rubr" {
     // я - Cyrillic_ya, Cyrillic_YA
     // ё - Cyrillic_io, Cyrillic_IO
 
-    key <TLDE> { [apostrophe,    quotedbl, notsign, notsign ] }; // ORIGINALLY FROM ABNT2
-    key <AE01> { [1,             exclam, onesuperior, exclamdown ]}; // ORIGINALLY FROM LATIN
-    key <AE02> { [2,             at, twosuperior, onehalf ] }; // ORIGINALLY FROM ABNT2
-    key <AE03> { [3,             numbersign, threesuperior, threequarters ] }; // ORIGINALLY FROM ABNT2
-    key <AE04> { [4,             dollar, sterling, onequarter ] }; // ORIGINALLY FROM ABNT2
-    key <AE05> { [5,             percent, cent, threeeighths ] }; // ORIGINALLY FROM ABNT2
-    key <AE06> { [6,             dead_diaeresis, notsign, diaeresis ] }; // ORIGINALLY FROM ABNT2
-    key <AE07> { [7,             ampersand, braceleft, seveneighths ]}; // ORIGINALLY FROM LATIN
-    key <AE08> { [8,             asterisk, bracketleft, trademark ]}; // ORIGINALLY FROM LATIN
-    key <AE09> { [9,             parenleft, bracketright, plusminus ]}; // ORIGINALLY FROM LATIN
-    key <AE10> { [0,             parenright, braceright, degree ]}; // ORIGINALLY FROM LATIN
-    key <AE11> { [minus,         underscore, backslash, questiondown ]}; // ORIGINALLY FROM LATIN
-    key <AE12> { [equal,         plus, section, dead_ogonek ] }; // ORIGINALLY FROM ABNT2
+    key <TLDE> { [apostrophe,        quotedbl,          notsign,              notsign ]}; // ORIGINALLY FROM ABNT2
+    key <AE01> { [1,                 exclam,            onesuperior,          exclamdown ]}; // ORIGINALLY FROM LATIN
+    key <AE02> { [2,                 at,                twosuperior,          onehalf ]}; // ORIGINALLY FROM ABNT2
+    key <AE03> { [3,                 numbersign,        threesuperior,        threequarters ]}; // ORIGINALLY FROM ABNT2
+    key <AE04> { [4,                 dollar,            sterling,             onequarter ]}; // ORIGINALLY FROM ABNT2
+    key <AE05> { [5,                 percent,           cent,                 threeeighths ]}; // ORIGINALLY FROM ABNT2
+    key <AE06> { [6,                 dead_diaeresis,    notsign,              diaeresis ]}; // ORIGINALLY FROM ABNT2
+    key <AE07> { [7,                 ampersand,         braceleft,            seveneighths ]}; // ORIGINALLY FROM LATIN
+    key <AE08> { [8,                 asterisk,          bracketleft,          trademark ]}; // ORIGINALLY FROM LATIN
+    key <AE09> { [9,                 parenleft,         bracketright,         plusminus ]}; // ORIGINALLY FROM LATIN
+    key <AE10> { [0,                 parenright,        braceright,           degree ]}; // ORIGINALLY FROM LATIN
+    key <AE11> { [minus,             underscore,        backslash,            questiondown ]}; // ORIGINALLY FROM LATIN
+    key <AE12> { [equal,             plus,              section,              dead_ogonek ]}; // ORIGINALLY FROM ABNT2
 
-    key <AD01> { [Cyrillic_tse,  Cyrillic_TSE, slash, slash ] }; // ORIGINALLY FROM ABNT2
-    key <AD02> { [Cyrillic_sha,  Cyrillic_SHA, Cyrillic_shcha, Cyrillic_SHCHA ] }; // ORIGINALLY FROM ABNT2
-    key <AD03> { [Cyrillic_ie,   Cyrillic_IE, Cyrillic_e, Cyrillic_E ] }; // ORIGINALLY FROM ABNT2
-    key <AD04> { [Cyrillic_er,   Cyrillic_ER, registered, registered ] }; // ORIGINALLY FROM ABNT2
-    key <AD05> { [Cyrillic_te,   Cyrillic_TE, tslash, Tslash ]}; // ORIGINALLY FROM LATIN
-    key <AD06> { [Cyrillic_ya,   Cyrillic_YA, leftarrow, yen ]}; // ORIGINALLY FROM LATIN
-    key <AD07> { [Cyrillic_u,    Cyrillic_U, downarrow, uparrow ]}; // ORIGINALLY FROM LATIN
-    key <AD08> { [Cyrillic_i,    Cyrillic_I, rightarrow, idotless ]}; // ORIGINALLY FROM LATIN
-    key <AD09> { [Cyrillic_o,    Cyrillic_O, oslash, Ooblique ]}; // ORIGINALLY FROM LATIN
-    key <AD10> { [Cyrillic_pe,   Cyrillic_PE, thorn, THORN ]}; // ORIGINALLY FROM LATIN
-    key <AD11> { [Cyrillic_yeru, Cyrillic_YERU, acute, grave ] }; // ORIGINALLY FROM ABNT2
-    key <AD12> { [bracketleft,   braceleft, ordfeminine, dead_macron ] }; // ORIGINALLY FROM ABNT2
+    key <AD01> { [Cyrillic_tse,      Cyrillic_TSE,      slash,                slash ]}; // ORIGINALLY FROM ABNT2
+    key <AD02> { [Cyrillic_sha,      Cyrillic_SHA,      Cyrillic_shcha,       Cyrillic_SHCHA ]}; // ORIGINALLY FROM ABNT2
+    key <AD03> { [Cyrillic_ie,       Cyrillic_IE,       Cyrillic_e,           Cyrillic_E ]}; // ORIGINALLY FROM ABNT2
+    key <AD04> { [Cyrillic_er,       Cyrillic_ER,       registered,           registered ]}; // ORIGINALLY FROM ABNT2
+    key <AD05> { [Cyrillic_te,       Cyrillic_TE,       tslash,               Tslash ]}; // ORIGINALLY FROM LATIN
+    key <AD06> { [Cyrillic_ya,       Cyrillic_YA,       leftarrow,            yen ]}; // ORIGINALLY FROM LATIN
+    key <AD07> { [Cyrillic_u,        Cyrillic_U,        downarrow,            uparrow ]}; // ORIGINALLY FROM LATIN
+    key <AD08> { [Cyrillic_i,        Cyrillic_I,        rightarrow,           idotless ]}; // ORIGINALLY FROM LATIN
+    key <AD09> { [Cyrillic_o,        Cyrillic_O,        oslash,               Ooblique ]}; // ORIGINALLY FROM LATIN
+    key <AD10> { [Cyrillic_pe,       Cyrillic_PE,       thorn,                THORN ]}; // ORIGINALLY FROM LATIN
+    key <AD11> { [Cyrillic_yeru,     Cyrillic_YERU,     acute,                grave ]}; // ORIGINALLY FROM ABNT2
+    key <AD12> { [bracketleft,       braceleft,         ordfeminine,          dead_macron ]}; // ORIGINALLY FROM ABNT2
 
-    key <AC01> { [Cyrillic_a,    Cyrillic_A, ae, AE ]}; // ORIGINALLY FROM LATIN
-    key <AC02> { [Cyrillic_es,   Cyrillic_ES, ssharp, section ]}; // ORIGINALLY FROM LATIN
-    key <AC03> { [Cyrillic_de,   Cyrillic_DE, eth, ETH ]}; // ORIGINALLY FROM LATIN
-    key <AC04> { [Cyrillic_ef,   Cyrillic_EF, dstroke, ordfeminine ]}; // ORIGINALLY FROM LATIN
-    key <AC05> { [Cyrillic_ghe,  Cyrillic_GHE, eng, ENG ]}; // ORIGINALLY FROM LATIN
-    key <AC06> { [Cyrillic_ha,   Cyrillic_HA, hstroke, Hstroke ]}; // ORIGINALLY FROM LATIN
-    key <AC07> { [Cyrillic_zhe,  Cyrillic_ZHE, dead_hook, dead_horn ] }; // ORIGINALLY FROM LATIN
-    key <AC08> { [Cyrillic_ka,   Cyrillic_KA, kra, ampersand ]}; // ORIGINALLY FROM LATIN
-    key <AC09> { [Cyrillic_el,   Cyrillic_EL, lstroke, Lstroke ]}; // ORIGINALLY FROM LATIN
-    key <AC10> { [Cyrillic_hardsign, Cyrillic_HARDSIGN, ccedilla,       Ccedilla ] }; // ORIGINALLY FROM ABNT2
-    key <AC11> { [dead_breve, dead_circumflex,    asciitilde,     asciicircum ] }; // ORIGINALLY FROM ABNT2
-    key <AC12> { [bracketright,  braceright, masculine, masculine ] }; // ORIGINALLY FROM ABNT2
+    key <AC01> { [Cyrillic_a,        Cyrillic_A,        ae,                   AE ]}; // ORIGINALLY FROM LATIN
+    key <AC02> { [Cyrillic_es,       Cyrillic_ES,       ssharp,               section ]}; // ORIGINALLY FROM LATIN
+    key <AC03> { [Cyrillic_de,       Cyrillic_DE,       eth,                  ETH ]}; // ORIGINALLY FROM LATIN
+    key <AC04> { [Cyrillic_ef,       Cyrillic_EF,       dstroke,              ordfeminine ]}; // ORIGINALLY FROM LATIN
+    key <AC05> { [Cyrillic_ghe,      Cyrillic_GHE,      eng,                  ENG ]}; // ORIGINALLY FROM LATIN
+    key <AC06> { [Cyrillic_ha,       Cyrillic_HA,       hstroke,              Hstroke ]}; // ORIGINALLY FROM LATIN
+    key <AC07> { [Cyrillic_zhe,      Cyrillic_ZHE,      dead_hook,            dead_horn ]}; // ORIGINALLY FROM LATIN
+    key <AC08> { [Cyrillic_ka,       Cyrillic_KA,       kra,                  ampersand ]}; // ORIGINALLY FROM LATIN
+    key <AC09> { [Cyrillic_el,       Cyrillic_EL,       lstroke,              Lstroke ]}; // ORIGINALLY FROM LATIN
+    key <AC10> { [Cyrillic_hardsign, Cyrillic_HARDSIGN, ccedilla,             Ccedilla ]}; // ORIGINALLY FROM ABNT2
+    key <AC11> { [dead_breve,        dead_circumflex,   asciitilde,           asciicircum ]}; // ORIGINALLY FROM ABNT2
+    key <AC12> { [bracketright,      braceright,        masculine,            masculine ]}; // ORIGINALLY FROM ABNT2
 
-    key <LSGT> { [Cyrillic_softsign, Cyrillic_SOFTSIGN, backslash,     bar ] }; // ORIGINALLY FROM ABNT2
-    key <AB01> { [Cyrillic_ze,   Cyrillic_ZE, guillemotleft, less ]}; // ORIGINALLY FROM LATIN
-    key <AB02> { [Cyrillic_yu,   Cyrillic_YU, guillemotright, greater ]}; // ORIGINALLY FROM LATIN
-    key <AB03> { [Cyrillic_che,  Cyrillic_CHE, copyright, copyright ] }; // ORIGINALLY FROM ABNT2
-    key <AB04> { [Cyrillic_ve,   Cyrillic_VE, leftdoublequotemark, leftsinglequotemark ]}; // ORIGINALLY FROM LATIN
-    key <AB05> { [Cyrillic_be,   Cyrillic_BE, rightdoublequotemark, rightsinglequotemark ] }; // ORIGINALLY FROM LATIN
-    key <AB06> { [Cyrillic_en,   Cyrillic_EN, n, N ]}; // ORIGINALLY FROM LATIN
-    key <AB07> { [Cyrillic_em,   Cyrillic_EM, mu, mu ] }; // ORIGINALLY FROM ABNT2
-    key <AB08> { [comma,         less, horizconnector, multiply ]}; // ORIGINALLY FROM LATIN
-    key <AB09> { [period,        greater, periodcentered, division ]}; // ORIGINALLY FROM LATIN
-    key <AB10> { [semicolon,     colon, dead_belowdot, dead_abovedot ] }; // ORIGINALLY FROM ABNT2
-    key <AB11> { [slash,         question, degree, questiondown ] }; // ORIGINALLY FROM ABNT2
+    key <LSGT> { [Cyrillic_softsign, Cyrillic_SOFTSIGN, backslash,            bar ]}; // ORIGINALLY FROM ABNT2
+    key <AB01> { [Cyrillic_ze,       Cyrillic_ZE,       guillemotleft,        less ]}; // ORIGINALLY FROM LATIN
+    key <AB02> { [Cyrillic_yu,       Cyrillic_YU,       guillemotright,       greater ]}; // ORIGINALLY FROM LATIN
+    key <AB03> { [Cyrillic_che,      Cyrillic_CHE,      copyright,            copyright ]}; // ORIGINALLY FROM ABNT2
+    key <AB04> { [Cyrillic_ve,       Cyrillic_VE,       leftdoublequotemark,  leftsinglequotemark ]}; // ORIGINALLY FROM LATIN
+    key <AB05> { [Cyrillic_be,       Cyrillic_BE,       rightdoublequotemark, rightsinglequotemark ]}; // ORIGINALLY FROM LATIN
+    key <AB06> { [Cyrillic_en,       Cyrillic_EN,       n,                    N ]}; // ORIGINALLY FROM LATIN
+    key <AB07> { [Cyrillic_em,       Cyrillic_EM,       mu,                   mu ]}; // ORIGINALLY FROM ABNT2
+    key <AB08> { [comma,             less,              horizconnector,       multiply ]}; // ORIGINALLY FROM LATIN
+    key <AB09> { [period,            greater,           periodcentered,       division ]}; // ORIGINALLY FROM LATIN
+    key <AB10> { [semicolon,         colon,             dead_belowdot,        dead_abovedot ]}; // ORIGINALLY FROM ABNT2
+    key <AB11> { [slash,             question,          degree,               questiondown ]}; // ORIGINALLY FROM ABNT2
 };
