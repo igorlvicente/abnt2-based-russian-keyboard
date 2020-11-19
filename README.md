@@ -29,5 +29,5 @@ Pode sofrer alterações.
     ```
 1. Salve o arquivo
 
-**Pronto**. Para mudar para o novo teclado, vá em System Settings > Text Entry > Botão '+' e procure por "Russian (Qwerty's edit by Igor)". Caso queira utilizar o terminal, basta digitar `setkxbmap rubr`.  
+**Pronto**. Para mudar para o novo teclado, vá em System Settings > Text Entry > Botão '+' e procure por "Russian (Qwerty's edit by Igor)". Caso queira utilizar o terminal, basta digitar `setxkbmap rubr`.  
 Você talvez tenha que reiniciar o computador para funcionar corretamente.
