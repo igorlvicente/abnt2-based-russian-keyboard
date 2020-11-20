@@ -19,7 +19,7 @@ Pode sofrer alterações.
       <configItem>
         <name>rubr</name>
         <shortDescription>RUBR</shortDescription>
-        <description>Russian (Qwerty's edit by Igor)</description>
+        <description>Russian (Qwerty edit by Igor)</description>
         <languageList>
               <iso639Id>rus</iso639Id>
         </languageList>
