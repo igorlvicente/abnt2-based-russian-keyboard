@@ -10,8 +10,8 @@ Pode sofrer alterações.
 ![](./images/russian.png)
 
 # Para instalar:
-1. Baixe o arquivo `rubr`
-1. Coloque-o na pasta `/usr/share/X11/xkb/symbols/`
+1. Baixe o arquivo `rubr` e coloque-o na pasta `/usr/share/X11/xkb/symbols/`  
+    `sudo wget https://github.com/igorlvicente/abnt2-based-russian-keyboard/raw/master/rubr -O /usr/share/X11/xkb/symbols/rubr`
 1. Edite o arquivo `/usr/share/X11/xkb/rules/evdev.xml`:
     1. Localize a tag `<layoutList>` e cole, na primeira posição, o texto abaixo:
     ```xml
